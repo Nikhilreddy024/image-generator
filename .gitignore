@@ -7,6 +7,7 @@ __pycache__/
 
 # Virtual environments
 .venv/
+temp_auto_push.bat
 venv/
 env/
 
@@ -16,3 +17,5 @@ Thumbs.db
 
 /generated_images
 /static/images/
+.gitignore
+branch_structure.json
