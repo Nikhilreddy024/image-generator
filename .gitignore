@@ -11,6 +11,12 @@ __pycache__/
 venv/
 env/
 
+# Node / Next.js
+node_modules/
+.next/
+out/
+npm-debug.log*
+
 # OS-specific files
 .DS_Store
 Thumbs.db
@@ -18,3 +24,6 @@ Thumbs.db
 /generated_images
 /static/images/
 /public/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
